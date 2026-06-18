@@ -13,7 +13,7 @@ Ranked by validation level (real money > pre-orders > waitlist > live). Update a
 |--:|----------------------|---------|:-----:|--------:|------------:|
 | — | [Yemi_Dev](https://github.com/fiveDevsOrg/Hackathon/tree/Yemi_Dev) | @yemi-bot | 0 | 0 | $0 |
 | — | [Polo_Dev](https://github.com/fiveDevsOrg/Hackathon/tree/Polo_Dev) | @PoloXBT | 0 | 0 | $0 |
-| — | _branch tbd_ | @dev3 | 0 | 0 | $0 |
+| — | [CvsTony_Dev](https://github.com/fiveDevsOrg/Hackathon/tree/CvsTony_Dev) | @cryptocvs29-ai | 0 | 0 | $0 |
 | — | _branch tbd_ | @dev4 | 0 | 0 | $0 |
 | — | _branch tbd_ | @dev5 | 0 | 0 | $0 |
 
